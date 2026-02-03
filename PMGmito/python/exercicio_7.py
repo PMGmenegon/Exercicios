@@ -1,0 +1,6 @@
+nome = str(input('Digite o seu nome completo: '))
+nome_u = nome.upper()
+nome_l = nome.lower()
+tamanho = nome.replace(' ', '')
+dividido = nome.split()
+print(f'Analisando seu nome...\nSeu nome em maiúsculas é {nome_u}\nSeu nome em minúsculas é {nome_l}\nSeu nome tem ao todo {len(tamanho)} letras\nSeu primeiro nome é {dividido[0]} e tem o tamanho de {len(dividido[0])} letras')
