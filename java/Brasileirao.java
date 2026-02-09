@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Brasileiraodeaco{
+public class Brasileirao{
     public static void main (String[] args){
         Scanner sc;
         int pontos1, pontos2, diferença, vitorias;
