@@ -1,0 +1,15 @@
+nome = Pedro
+idade = 18
+
+nome = Maria
+idade = 18
+
+nome = Bruno
+idade = 74
+
+nome = Melisa
+idade = 53
+
+nome = Tici
+idade = 9
+
